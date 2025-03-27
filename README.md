@@ -5,10 +5,10 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 
 ## Features:
 - Designed specifically for the Xbox!
-- Replaces Claude with "Claudia", a genderswapped version of Claude.
-- Replaces the heads up display with a Liberty City Stories style HUD
-- Replaces the beeper with a modified version of the Vice City Stories beeper.
-- Modifies certain voice lines, subtitles and images to replace all references of Claude with Claudia
+- Replaces Claude with "Claudia", a genderswapped version of Claude. (Includes prison outfit + cutscene models!)
+- Replaces the heads up display with a Liberty City Stories style HUD + off-white weapon icons.
+- Replaces the beeper with a classic "iFruit" style beeper!
+- Modifies certain subtitles and images to replace all references of Claude with Claudia.
 - Replaces menu assets with new images showing off the new protagonist!
 
 ## Installation:
