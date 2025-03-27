@@ -12,6 +12,11 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 - Replaces menu assets with new images showing off the new protagonist!
 - Replaces the radar with a much more detailed one!
 
+# Tools Required:
+- ImgTool 2.0
+- MagicTXD (if you want to swap out textures)
+- extract-xiso or similar XISO extraction utility if using an XISO copy of GTA III, or software to back up an Xbox DVD onto your system if you haven't already.
+
 ## Installation:
 - Replace the contents of your "TXD" folder in GTA III with the contents in the "TXD" folder from Claudia's Requiem
 - Replace the contents of your "TEXT" folder in GTA III with the contents in the "TEXT" folder from Claudia's Requiem
