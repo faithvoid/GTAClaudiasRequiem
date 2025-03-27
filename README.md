@@ -1,6 +1,6 @@
 # Grand Theft Auto III: Claudia's Requiem
 An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand Theft Auto III is a story about lesbian love and betrayal.
-
+![](screenshots/screenshot1.png)
 ## Features:
 - Designed specifically for the Xbox!
 - Replaces Claude with "Claudia", a genderswapped version of Claude.
