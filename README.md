@@ -24,3 +24,4 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 
 ## Issues:
 - Claudia's ponytail only appears in cutscenes for some reason. She still looks fine in-game, though, just missing her ponytail! Just imagine she puts her hair up before meetings.
+- LCS-style font is still incomplete and has various alignment issues when displaying cutscene text. 
