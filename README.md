@@ -10,8 +10,12 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 - Replaces the beeper with a classic "iFruit" style beeper!
 - Modifies certain subtitles and images to replace all references of Claude with Claudia.
 - Replaces menu assets with new images showing off the new protagonist!
+- Replaces the radar with a much more detailed one!
 
 ## Installation:
 - Replace the contents of your "TXD" folder in GTA III with the contents in the "TXD" folder from Claudia's Requiem
 - Replace the contents of your "TEXT" folder in GTA III with the contents in the "TEXT" folder from Claudia's Requiem
 - Use ImgTool 2.0 to replace (or delete then re-add) model files with the ones found in the "models" folder from Claudia's Requiem
+
+## Issues:
+- Claudia's ponytail only appears in cutscenes for some reason. She still looks fine in-game, though, just missing her ponytail! Just imagine she puts her hair up before meetings.
