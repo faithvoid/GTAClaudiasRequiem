@@ -28,5 +28,7 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 
 ## Credits:
 Avals343 - original female Claude ("Claudina") model
+
 AllstarOfNBC1984 - Fruit Pager 
+
 Angel White - LCS timecyc.dat converted to GTA III
