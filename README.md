@@ -11,6 +11,7 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 - Modifies certain subtitles and images to replace all references of Claude with Claudia.
 - Replaces menu assets with new images showing off the new protagonist!
 - Replaces the radar with a much more detailed one!
+- New radio stations! Chatterbox FM is now Liberty Soul FM (R&B/soul), and Double Clef FM is now Peshay FM (jungle)!
 
 # Tools Required:
 - ImgTool 2.0
@@ -32,3 +33,7 @@ Avals343 - original female Claude ("Claudina") model
 AllstarOfNBC1984 - Fruit Pager 
 
 Angel White - LCS timecyc.dat converted to GTA III
+
+Captain Northstar + DJ Tina Jane - Liberty Soul FM
+
+Peshay - Peshay FM
