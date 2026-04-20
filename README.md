@@ -12,6 +12,7 @@ An alternate story for Grand Theft Auto III on the Microsoft Xbox. Now Grand The
 - Replaces menu assets with new images showing off the new protagonist!
 - Replaces the radar with a much more detailed one!
 - New radio stations! Chatterbox FM is now Liberty Soul FM (R&B/soul), and Double Clef FM is now Peshay FM (jungle)!
+- Optional patch for widescreen users! 
 
 # Tools Required:
 - ImgTool 2.0
